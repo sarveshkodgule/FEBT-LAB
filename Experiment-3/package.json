@@ -1,0 +1,15 @@
+{
+  "name": "experiment-3",
+  "version": "1.0.0",
+  "description": "Connecting to MongoDB and CRUD Operations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.1"
+  },
+  "author": "Sarvesh Kodgule",
+  "license": "ISC"
+}

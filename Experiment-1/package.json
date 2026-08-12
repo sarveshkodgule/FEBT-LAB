@@ -1,0 +1,11 @@
+{
+  "name": "experiment-1",
+  "version": "1.0.0",
+  "description": "Demonstrate the Use of Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sarvesh Kodgule",
+  "license": "ISC"
+}
