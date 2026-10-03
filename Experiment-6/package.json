@@ -1,0 +1,15 @@
+{
+  "name": "experiment-6",
+  "version": "1.0.0",
+  "description": "User Authentication and Authorization using JWT in Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "author": "Sarvesh Kodgule",
+  "license": "ISC"
+}
